@@ -1,2 +1,2 @@
 # Spotify-recs-api
-An interface made from scratch used to provide a better and live recommendation system compared to the default on Spotify. More information in Readme
+a 10,000 song playlist based on the entire cumulative history of my listening activity
