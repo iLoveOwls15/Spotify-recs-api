@@ -1,5 +1,5 @@
 # Spotify-recs-api
-a 10,000 song playlist based on the entire cumulative history of my listening activity
+a 9999 song playlist based on the entire cumulative history of my listening activity, sadly the hard limit to songs in a spotify playlist is around 10,000
 
 
 
